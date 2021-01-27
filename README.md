@@ -6,5 +6,8 @@
 ## Dreamcatcher Ranch Map
 ![DC Map](https://github.com/garrett-w-powers/portfolio/blob/main/dreamcatcher_final.jpg)
 
-## Pietila Map near Guadalupe Mountain NP
+## Pietila Map Near Guadalupe Mountain NP
 ![Pietila Map](https://github.com/garrett-w-powers/portfolio/blob/main/pietila_map.png.jpg)
+
+## Texas Phenology Animation
+![Phenology Map](https://github.com/garrett-w-powers/portfolio/blob/main/phenology_slower.gif)
