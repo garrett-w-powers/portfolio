@@ -20,3 +20,5 @@
 
 ## Working Lands Dot Map
 ![Night lights Map](https://github.com/garrett-w-powers/portfolio/blob/main/texas_working_lands_map-01.png)
+
+[Key Deer Web Map](https://nri.tamu.edu/blog/2019/june/a-story-map-measuring-hurricane-irmas-impact-on-coastal-forests/)
